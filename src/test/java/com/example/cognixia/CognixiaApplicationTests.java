@@ -19,7 +19,7 @@ class CognixiaApplicationTests {
 	}
 	@Test
 	void testSomethingElse() {
-		assertTrue(true);
+		assertTrue(false);
 		assertTrue(true);
 	}
 
