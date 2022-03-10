@@ -17,13 +17,5 @@ class CognixiaApplicationTests {
 		assertTrue(true);
 		assertTrue(true);
 	}
-	@Test
-	void testSomethingElse() {
-		assertTrue(true);
-	}
-	@Test
-	void testSomethingElse1() {
-		assertTrue(true);
-	}
 
 }
